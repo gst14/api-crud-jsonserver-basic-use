@@ -486,6 +486,68 @@
       ]
     }
   ],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" }
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "lastname": "avila",
+      "firstname": "gaston",
+      "username": "gavila14",
+      "email": "gavila@mail.com",
+      "password": "123456",
+      "profile": "user"
+    },
+    {
+      "id": 2,
+      "lastname": "medina",
+      "firstname": "flavia",
+      "username": "flavia270",
+      "email": "flavia@mail.com",
+      "password": "123456",
+      "profile": "user"
+    },
+    {
+      "id": 3,
+      "lastname": "ezquer",
+      "firstname": "ariel",
+      "username": "aezquer",
+      "email": "aezquer@mail.com",
+      "password": "123456",
+      "profile": "user"
+    },
+    {
+      "id": 4,
+      "lastname": "cortez",
+      "firstname": "marcos",
+      "username": "mcortez",
+      "email": "mcortez@mail.com",
+      "password": "123456",
+      "profile": "user"
+    },
+    {
+      "id": 5,
+      "lastname": "rodriguez",
+      "firstname": "agustin",
+      "username": "arodriguez",
+      "email": "arodriguez@mail.com",
+      "password": "123456",
+      "profile": "user"
+    },
+    {
+      "id": 6,
+      "username": "admin",
+      "password": "admin",
+      "email": "admin@mail.com",
+      "profile": "admin"
+    }
+  ]
 }
